@@ -127,6 +127,8 @@ This dashboard enables stakeholders to:
 📸 Dashboard Preview
 ![image alt](https://github.com/SusmitaMon/green-cart-powerbi-dashboard/blob/3cc04b55655a03ecf2550a5c12ea408ccbb35a07/KPI%20Summary%20view.png)
 
+![image alt](https://github.com/SusmitaMon/green-cart-powerbi-dashboard/blob/main/dashboard-overview.png?raw=true)
+
 🚀 How to Use
 
 Download the .pbix file.
