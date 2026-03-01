@@ -141,7 +141,7 @@ Use filters to explore insights interactively.
 GreenCart-Sales-Insights
  ├── GreenCart-Dashboard.pbix
  ├── dashboard-overview.png
- ├── filtered-view.png
+ ├── KPI-Summary.png
  └── README.md
 
  🧠 Skills Demonstrated
