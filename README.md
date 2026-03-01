@@ -1,2 +1,165 @@
 # green-cart-powerbi-dashboard
-Power BI dashboard analysing sales performance, customer behaviour, and delivery operations to support data-driven business decisions.
+**Built an interactive Power BI dashboard analysing sales performance, customer behaviour, and delivery operations to support data-driven business decisions.**
+🎯 Business Scenario
+
+Green Cart Ltd., a UK-based retailer of eco-friendly household products, required performance insights ahead of a quarterly review.
+
+The analysis focuses on:
+
+identifying revenue drivers
+
+understanding customer purchasing behaviour
+
+evaluating discount effectiveness
+
+assessing delivery performance
+🧰 Tools & Technologies
+
+Power BI — dashboard design & visualisation
+
+Power Query — data cleaning & transformation (ETL)
+
+DAX — KPI calculations & measures
+
+Data Modelling — relational modelling & feature engineering
+📂 Dataset Overview
+
+The project integrates three datasets:
+
+Sales Data — orders, quantities, discounts, delivery status
+
+Product Data — categories and pricing
+
+Customer Data — loyalty tiers and regions
+🔄 Data Preparation & Modelling
+Data Cleaning
+
+Standardised inconsistent delivery status and loyalty tier values
+
+Handed missing values and removed duplicates
+
+Ensured correct data types and numeric validity
+
+Feature Engineering
+
+Created additional fields to enhance analysis:
+
+Revenue = quantity × unit price × (1 − discount)
+
+Order Week for trend analysis
+
+Price Band segmentation
+
+Late Delivery Flag for operational performance
+
+Data Model
+
+A relational model was created linking sales data with product and customer tables to ensure accurate aggregation and performance.
+
+📈 Dashboard Overview
+KPI Summary
+
+Total Revenue
+
+Total Orders
+
+Quantity Sold
+
+Late Delivery %
+
+Average Discount
+
+Sales Performance
+
+Weekly revenue trends by region
+
+Revenue by category
+
+Discount vs quantity relationship
+
+Customer Insights
+
+Revenue by loyalty tier
+
+Payment method preferences
+
+Operations & Delivery
+
+Late delivery rates by region
+
+Delivery performance insights
+
+Interactive Filters
+
+Users can filter insights by:
+
+region
+
+category
+
+loyalty tier
+
+price band
+
+date range
+
+🔍 Key Insights
+
+Cleaning products generated the highest revenue.
+
+Gold-tier customers contributed the most value.
+
+Higher discounts were associated with increased purchase volume.
+
+Certain regions experienced higher delivery delays.
+
+Early customer engagement correlated with stronger purchasing activity.
+
+💼 Business Value
+
+This dashboard enables stakeholders to:
+
+✔ monitor sales performance
+✔ identify high-value customer segments
+✔ optimise promotional strategies
+✔ improve delivery reliability
+✔ support data-driven decisions
+📸 Dashboard Preview
+<img width="616" height="351" alt="Screenshot 2026-02-28 233141" src="https://github.com/user-attachments/assets/00546570-8a17-409e-948b-085db8eafdc1" />
+<img width="622" height="373" alt="Screenshot 2026-03-01 121058" src="https://github.com/user-attachments/assets/2ede68e3-78b5-44f4-b243-614da2270203" />
+
+🚀 How to Use
+
+Download the .pbix file.
+
+Open in Power BI Desktop.
+
+Use filters to explore insights interactively.
+
+📌 Project Structure
+GreenCart-Sales-Insights
+ ├── GreenCart-Dashboard.pbix
+ ├── dashboard-overview.png
+ ├── filtered-view.png
+ └── README.md
+
+ 🧠 Skills Demonstrated
+
+Data cleaning & transformation (ETL)
+
+Data modelling & KPI development
+
+Dashboard design & data storytelling
+
+Customer behaviour analysis
+
+Operational performance analysis
+
+Data validation & quality assurance
+
+📬 Author
+
+Susmita Mondal
+Power BI Developer
+📍 United Kingdom
+🔗 LinkedIn: [https://www.linkedin.com/in/susmita-mondal-51853999/]
