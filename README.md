@@ -127,7 +127,7 @@ This dashboard enables stakeholders to:
 📸 Dashboard Preview
 <img width="616" height="351" alt="Screenshot 2026-02-28 233141" src="https://github.com/user-attachments/assets/00546570-8a17-409e-948b-085db8eafdc1" />
 <img width="622" height="373" alt="Screenshot 2026-03-01 121058" src="https://github.com/user-attachments/assets/2ede68e3-78b5-44f4-b243-614da2270203" />
-
+images/dashboard-overview.png
 🚀 How to Use
 
 Download the .pbix file.
