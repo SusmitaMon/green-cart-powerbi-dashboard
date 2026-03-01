@@ -1,5 +1,7 @@
 # green-cart-powerbi-dashboard
 **Built an interactive Power BI dashboard analysing sales performance, customer behaviour, and delivery operations to support data-driven business decisions.**
+
+https://github.com/SusmitaMon/green-cart-powerbi-dashboard/blob/b10888a821287767a38644a653d09b4cde719f5d/Green%20Cart%20Power%20BI%20Project.pbix
 🎯 Business Scenario
 
 Green Cart Ltd., a UK-based retailer of eco-friendly household products, required performance insights ahead of a quarterly review.
@@ -129,6 +131,7 @@ This dashboard enables stakeholders to:
 
 ![image alt](https://github.com/SusmitaMon/green-cart-powerbi-dashboard/blob/main/dashboard-overview.png?raw=true)
 
+[[Download the Power BI file]](https://github.com/SusmitaMon/green-cart-powerbi-dashboard/raw/b10888a821287767a38644a653d09b4cde719f5d/Green%20Cart%20Power%20BI%20Project.pbix)
 🚀 How to Use
 
 Download the .pbix file.
