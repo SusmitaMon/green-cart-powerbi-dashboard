@@ -1,5 +1,4 @@
-# Green Cart Sales & Customer Insights Dashboard (Power BI)
-**Built an interactive Power BI dashboard analysing sales performance, customer behaviour, and delivery operations to support data-driven business decisions.**
+## Green Cart Sales & Customer Insights Dashboard (Power BI)
 This project analyses retail sales and customer behaviour using Power BI to uncover key business insights and performance trends. The dashboard transforms raw transactional data into meaningful KPIs that support data-driven decision making.
 The analysis focuses on revenue performance, customer behaviour, product category trends, and delivery efficiency to help identify areas for operational improvement and business growth.
 
