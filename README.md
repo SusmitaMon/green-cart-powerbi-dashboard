@@ -2,7 +2,7 @@
 This project analyses retail sales and customer behaviour using Power BI to uncover key business insights and performance trends. The dashboard transforms raw transactional data into meaningful KPIs that support data-driven decision making.
 The analysis focuses on revenue performance, customer behaviour, product category trends, and delivery efficiency to help identify areas for operational improvement and business growth.
 
-## Project Overview
+### Project Overview
 The objective of this project is to analyse retail business data and build an interactive dashboard that enables stakeholders to monitor performance and identify actionable insights.
 
 The dashboard answers key business questions such as:
@@ -17,13 +17,13 @@ The project demonstrates the full analytics workflow from **data preparation to 
 
 -------
 
-## Tools & Technologies
+### Tools & Technologies
 Power BI  
 DAX  
 Power Query (M)  
 Excel  
 
-## Dataset
+### Dataset
 The dataset contains retail transactional and customer data including:
 
 • Orders  
@@ -37,7 +37,7 @@ The dataset was cleaned, transformed, and modelled in Power BI before analysis.
 
 -------
 
-## Data Preparation 
+### Data Preparation 
 Several preprocessing steps were performed before building the dashboard:
 
 • Cleaned and transformed raw data using **Power Query**  
@@ -48,7 +48,7 @@ Several preprocessing steps were performed before building the dashboard:
 
 --------
 
-## Key KPIs
+### Key KPIs
 
 The dashboard tracks several business performance indicators including:
 
@@ -63,20 +63,20 @@ The dashboard tracks several business performance indicators including:
 
 These KPIs allow stakeholders to quickly monitor overall business health.
 
-## Dashboard Insights
+### Dashboard Insights
 
 The dashboard provides insights across three major areas of the business.
 
-### Sales Performance
+#### Sales Performance
 Tracks revenue trends, product performance, and regional sales distribution.
 
-### Customer Behaviour
+#### Customer Behaviour
 Analyses customer lifetime value and purchasing patterns to identify valuable customer segments.
 
-### Operational Performance
+#### Operational Performance
 Monitors delivery efficiency and identifies regions experiencing higher late-delivery rates.
 
-## Key Insights
+### Key Insights
 
 • Orders with discounts above **15% generated approximately 20–25% higher purchase quantities**.  
 • The **South region showed the highest late delivery rate (~50%)**, indicating potential logistics issues.  
@@ -85,7 +85,7 @@ Monitors delivery efficiency and identifies regions experiencing higher late-del
 
 ---
 
-## Business Recommendations
+### Business Recommendations
 
 Based on the analysis:
 
@@ -96,20 +96,20 @@ Based on the analysis:
 
 ---
 
-## Dashboard Preview
+### Dashboard Preview
 
 1. ![image alt](https://github.com/SusmitaMon/green-cart-powerbi-dashboard/blob/3cc04b55655a03ecf2550a5c12ea408ccbb35a07/KPI%20Summary%20view.png)
 
 2. ![image alt](https://github.com/SusmitaMon/green-cart-powerbi-dashboard/blob/main/dashboard-overview.png?raw=true)
 
-## Download Dashboard
+### Download Dashboard
 You can download and explore the interactive Power BI dashboard here:
 
 [Download the Power BI Dashboard (.pbix)](https://github.com/SusmitaMon/green-cart-powerbi-dashboard/raw/b10888a821287767a38644a653d09b4cde719f5d/Green%20Cart%20Power%20BI%20Project.pbix)
 
 ---------
 
-## How to Use
+### How to Use
 
 1. Download the `.pbix` file from this repository  
 2. Open it using **Power BI Desktop**  
@@ -117,7 +117,7 @@ You can download and explore the interactive Power BI dashboard here:
 
 ---------
 
-##  Project Structure
+###  Project Structure
 GreenCart-Sales-Insights
  ├── GreenCart-Dashboard.pbix
  ├── dashboard-overview.png
@@ -126,7 +126,7 @@ GreenCart-Sales-Insights
 
 ----------
 
-## Skills Demonstrated
+### Skills Demonstrated
 
 1. Data cleaning & transformation (ETL)
 2. Data modelling & KPI development
@@ -136,7 +136,7 @@ GreenCart-Sales-Insights
 6. Data validation & quality assurance
 
 
-## Author
+### Author
 
 **Susmita Mondal**  
 Data Analyst | Power BI Developer  
